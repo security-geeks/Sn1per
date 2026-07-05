@@ -1,114 +1,161 @@
-[![Sn1perSecurity](https://sn1persecurity.com/images/Sn1perSecurity-Attack-Surface-Management-header2.png)](https://sn1persecurity.com)
+[![Sn1per](https://sn1persecurity.com/wordpress/wp-content/uploads/2026/04/sn1per-professional-2026-hero-banner.png)](https://sn1persecurity.com/wordpress/product/sn1per-professional-2026-license/)
 
 [![GitHub release](https://img.shields.io/github/release/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/releases)
+[![License](https://img.shields.io/github/license/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/blob/master/LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/issues)
-[![Github Stars](https://img.shields.io/github/stars/1N3/Sn1per.svg?style=social&label=Stars)](https://github.com/1N3/Sn1per/)
-[![GitHub Followers](https://img.shields.io/github/followers/1N3.svg?style=social&label=Follow)](https://github.com/1N3/Sn1per/)
-[![Tweet](https://img.shields.io/twitter/url/http/xer0dayz.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2F1N3%2FSn1per)
+[![Last commit](https://img.shields.io/github/last-commit/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/graphs/contributors)
+
+[![GitHub Stars](https://img.shields.io/github/stars/1N3/Sn1per.svg?style=social&label=Stars)](https://github.com/1N3/Sn1per/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/1N3/Sn1per.svg?style=social&label=Forks)](https://github.com/1N3/Sn1per/network/members)
+[![GitHub Followers](https://img.shields.io/github/followers/1N3.svg?style=social&label=Follow)](https://github.com/1N3)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=xer0dayz)
 
-[[Website](https://sn1persecurity.com/wordpress/)] [[Blog](https://sn1persecurity.com/wordpress/blog/)] [[Shop](https://sn1persecurity.com/wordpress/shop)] [[Documentation](https://sn1persecurity.com/wordpress/documentation/)] [[Demo](https://www.youtube.com/c/Sn1perSecurity/videos)] [[Find Out More](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/)]
+[[Products](https://sn1persecurity.com/wordpress/shop/)] [[Attack Surface Management](https://sn1persecurity.com/wordpress/use-cases/)] [[About Sn1per](https://sn1persecurity.com/wordpress/about/)] [[News](https://sn1persecurity.com/wordpress/blog/)] [[Contact](https://sn1persecurity.com/wordpress/home/contact/)] [[Demo](https://sn1persecurity.com/wordpress/#video)] [[Pricing](https://sn1persecurity.com/wordpress/product/sn1per-professional-2026-license/)] [[Shop](https://sn1persecurity.com/wordpress/shop/)]
 
+# Sn1per — The Offensive-Security Platform for Modern Teams
 
-## Attack Surface Management Platform
+> Recon, scanning, exploitation, and reporting in a single workspace — whether you're a solo pentester or a global SOC.
 
-### Discover hidden assets and vulnerabilities in your environment
+> ## Sn1per Professional 2026 is here
+>
+> The largest release since v10.0 — Docker-first deployment, Bootstrap 5 / Tabler UI, Workspace Navigator, Workspace + Host Reports with CSV / Excel / PDF export, JSON API v1.0, an Offcanvas Quick Commands sidebar with 13 panels, and expanded modules for ReverseAPK, MassPwn, Threat Intel, Nessus, and Burp.
+>
+> [Read the release notes →](https://sn1persecurity.com/wordpress/sn1per-professional-2026-release/) · [View pricing →](https://sn1persecurity.com/wordpress/product/sn1per-professional-2026-license/)
 
-#### [[Find out more](https://sn1persecurity.com/wordpress/shop)]
+## Table of Contents
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-workspace-navigator1-3.png)](https://sn1persecurity.com/)
+- [About](#about-sn1per)
+- [What Sn1per Is For](#what-sn1per-is-for)
+- [What's New in 2026](#whats-new-in-2026)
+- [Editions & Pricing](#editions--pricing)
+- [Install](#install)
+- [Quick Start](#quick-start)
+- [Usage](#usage)
+- [Scan Modes](#scan-modes)
+- [Integrations](#integrations)
+- [Documentation & Help](#documentation--help)
+- [News & Releases](#news--releases)
+- [Community & Support](#community--support)
+- [Contributing](#contributing)
+- [License & Legal](#license--legal)
 
-## The ultimate pentesting toolkit
+## About Sn1per
 
-Integrate with the leading commercial and open source vulnerability scanners to scan for the latest CVEs and vulnerabilities.
+Sn1per is an offensive-security platform that consolidates reconnaissance, vulnerability scanning, exploitation, and reporting into a single workspace. Built by pentesters since 2015, it ships in three editions — a free Community Edition (source-available, custom EULA — see LICENSE.md) in this repository, a paid Professional edition for individual operators and small teams, and an Enterprise edition for global SOCs — all backed by the same core scanning engine.
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-workspace-report1-3.png)](https://sn1persecurity.com/)
+Sn1per orchestrates 90+ third-party tools, ships with 600+ exploits and 10,000+ detections, and is used by 500+ teams worldwide. Battle-tested by the community. Built by pentesters, for pentesters.
 
-### Automate the most powerful tools
+**500+** Teams · **90+** Integrations · **10,000+** Detections · **600+** Exploits · Trusted since **2015**
 
-Security tools are expensive and time-consuming, but with Sn1per, you can save time by automating the execution of these open source and commercial tools to discover vulnerabilities across your entire attack surface.
+## What Sn1per Is For
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-host-list3-1.png)](https://sn1persecurity.com/)
+Sn1per ships as one platform that covers the core jobs offensive security teams otherwise stitch together from a dozen tools:
 
-### Find what you can't see
+- **[External Attack Surface Management](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/)** - continuous discovery, monitoring, and active exploitation of every internet-facing asset your organization owns, including the ones nobody on your team knows about.
+- **[Continuous Attack Surface Management](https://sn1persecurity.com/wordpress/continuous-attack-surface-management-with-sn1per-professional/)** - daily-cadence rescans that diff yesterday's surface against today's so new exposures hit your SOC within hours, not the next quarterly pentest.
+- **[Automated Penetration Testing](https://sn1persecurity.com/wordpress/automated-penetration-testing/)** - 600+ exploits and 10,000+ detections orchestrated as a single workflow, with active verification eliminating the false positives version-only scanners ship as "critical."
+- **[Reconnaissance & Attack Surface Discovery](https://sn1persecurity.com/wordpress/reconnaissance-methodology/)** - the full phased recon workflow, from OSINT and subdomain enumeration through live-host discovery and fingerprinting, run as one automated pass.
 
-Hacking is a problem that's only getting worse. But, with Sn1per, you can find what you can’t see—hidden assets and vulnerabilities in your environment.
+## What's New in 2026
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-host-list2-1.png)](https://sn1persecurity.com/)
+[![Sn1per Pro 2026 Workspace Navigator](https://sn1persecurity.com/wordpress/wp-content/uploads/2026/04/sn1per-pro-2026-workspace-navigator.png)](https://sn1persecurity.com/wordpress/sn1per-professional-2026-release/)
 
-### Discover and prioritize risks in your organization
+*Workspace Navigator — switch contexts across hosts, scopes, and engagements.*
 
-Sn1per is a next-generation information gathering tool that provides automated, deep, and continuous security for organizations of all sizes.
+[![Sn1per Pro 2026 Dashboard](https://sn1persecurity.com/wordpress/wp-content/uploads/2026/04/sn1per-pro-2026-dashboard.png)](https://sn1persecurity.com/wordpress/sn1per-professional-2026-release/)
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-vulnerability-report1-3.png)](https://sn1persecurity.com/)
+*Dashboard — at-a-glance scan posture, top findings, and exploitable assets.*
 
-### See Sn1per in action
+### Highlights
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/10/Sn1perbootcampseries1.png)](https://www.youtube.com/c/Sn1perSecurity/videos)
+- **Docker-first deployment** — same image, every distro
+- **Bootstrap 5 / Tabler UI** — refreshed responsive interface with light + dark mode
+- **Workspace Navigator** — fast workspace switching with state preservation
+- **Workspace & Host Reports** — CSV, Excel, and PDF export
+- **JSON API v1.0** — programmatic access for CI / SOAR / SIEM pipelines
+- **Offcanvas Quick Commands** — 13 panels, every common action one click away
+- **Expanded modules** — ReverseAPK, MassPwn, Threat Intel, Nessus, Burp Suite
+- **Maturing SC0PE framework** — more parsers, better noise reduction
+- **Hardened PHP library stack** — modern dependencies, audited components
+- **New CLI flags** — `-v` (verbose), `-db` (debug), `-rr` (remove resume files)
 
-### News
+> *"Sn1per Professional 2026 is the largest release since the v10.0 line."*
 
-- #### [Sn1per Enterprise v20240608 Released!](https://sn1persecurity.com/wordpress/sn1per-enterprise-v20240608-released/)
-- #### [Sn1per Scan Engine v10.6 Released!](https://sn1persecurity.com/wordpress/sn1per-scan-engine-v10-6-released/)
-- #### [Sn1per Enterprise v20231025 Released!](https://sn1persecurity.com/wordpress/sn1per-enterprise-v20231025-released/)
-- #### [Automated Penetration Testing Guide - Your Ultimate Resource](https://sn1persecurity.com/wordpress/penetration-testing-guide/)
-- #### [Dark Web Monitoring: Securing Your External Attack Surface](https://sn1persecurity.com/wordpress/dark-web-monitoring-securing-your-external-attack-surface/)
-- #### [Sn1per: The Next Generation of Tools for Security Professionals](https://sn1persecurity.com/wordpress/sn1per-the-next-generation-of-tools-for-security-professionals/)
-- #### [5 Ways Sn1per Can Automate Your Security Workflow](https://sn1persecurity.com/wordpress/5-ways-sn1per-can-automate-your-security-workflow/)
-- #### [External Attack Surface Management with Sn1per](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/)
-- #### [Sn1per Enterprise Released!](https://sn1persecurity.com/wordpress/sn1per-enterprise-released/)
-- #### [Sn1per Professional v10.0 Released!](https://sn1persecurity.com/wordpress/sn1per-professional-v10-released/)
+[Read the full release notes →](https://sn1persecurity.com/wordpress/sn1per-professional-2026-release/)
 
-## Kali/Ubuntu/Debian/Parrot Linux Install
+## Editions & Pricing
 
-```
-git clone https://github.com/1N3/Sn1per
+The [Community Edition](https://sn1persecurity.com/wordpress/sn1per-community-edition/) is free and lives in this repository. The Professional and Enterprise editions add a Web UI, commercial integrations, and email support.
+
+| | **Sn1per Professional** | **Sn1per Enterprise** |
+|---|---|---|
+| **Price** | $984 / year (per seat) | Get a quote |
+| **Subscription** | 1 year | 1 year |
+| **— Included —** | | |
+| Web UI | Professional Web UI | Enterprise Web UI |
+| Scan Engine & UI Updates | ✓ | ✓ |
+| All Modules & Integrations | ✓ | ✓ |
+| On-Prem (Self Hosted) | ✓ | ✓ |
+| Email Support | 1 Year | 1 Year |
+| Improved Speed & Scalability | — | ✓ |
+| Cutting-Edge Features | — | ✓ |
+| **— Limits & Quotas —** | | |
+| Max Scans | Unlimited | Unlimited |
+| Max Assets / Workspace | 30 | Unlimited |
+| Max Workspaces | 5 | Unlimited |
+| Total Assets | 150 | 500+ |
+| Licensed Systems | 1 | 1 |
+
+[Buy a Sn1per Professional license →](https://sn1persecurity.com/wordpress/product/sn1per-professional-2026-license/) · [Get an Enterprise quote →](https://sn1persecurity.com/wordpress/request-a-quote/)
+
+## Install
+
+### Linux (Kali / Ubuntu / Debian / Parrot)
+
+```bash
+git clone https://github.com/1N3/Sn1per.git
 cd Sn1per
-bash install.sh
+sudo bash install.sh
 ```
 
-## AWS AMI (Free Tier) VPS Install
+> Sn1per installs to `/usr/share/sniper` and requires root. Use `sudo bash install.sh force` to skip the confirmation prompt.
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/06/AWS-Marketplace.png)](https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno)
+### Docker
 
-To install Sn1per using an AWS EC2 instance:
+[Sn1per on Docker Hub →](https://hub.docker.com/r/sn1persecurity/sn1per)
 
-1. Go to <https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno> and click the “Continue to Subscribe” button
-2. Click the “Continue to Configuration” button
-3. Click the “Continue to Launch” button
-4. Login via SSH using the public IP of the new EC2 instance
+#### Kali Linux base
 
-## Docker Install
+```bash
+sudo docker compose up
+sudo docker run --privileged -it sn1per-kali-linux /bin/bash
+```
 
-[![](https://sn1persecurity.com/images/docker-logo.png)](https://hub.docker.com/r/sn1persecurity/sn1per)
+#### BlackArch base
 
-### Kali Linux-based Sn1per
+```bash
+sudo docker compose -f docker-compose-blackarch.yml up
+sudo docker run --privileged -it sn1per-blackarch /bin/bash
+```
 
-1. Run the Docker Compose file
+### AWS Marketplace (EC2 AMI)
 
-    ```bash
-    sudo docker compose up
-    ```
+Subscribe via [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-rmloab6wnymno):
 
-1. Run the container
+1. Click **Continue to Subscribe**
+2. Click **Continue to Configuration**, choose region/instance type
+3. Click **Continue to Launch**
+4. SSH to the EC2 public IP — Sn1per is preinstalled
 
-    ```bash
-    sudo docker run -it sn1per-kali-linux /bin/bash
-    ```
+## Quick Start
 
-### BlackArch-based Sn1per
+```bash
+sudo bash install.sh
+sniper -t example.com -m normal
+```
 
-1. Run the Docker Compose file
-
-    ```bash
-    sudo docker compose -f docker-compose-blackarch.yml up
-    ```
-
-1. Run the container
-
-    ```bash
-    sudo docker run -it sn1per-blackarch /bin/bash
-    ```
+Results land in `/usr/share/sniper/loot/<workspace>/`. See [Usage](#usage) for more modes.
 
 ## Usage
 
@@ -123,7 +170,7 @@ sniper -t <TARGET> -o -re
 sniper -t <TARGET> -m stealth -o -re
 
 [*] DISCOVER MODE
-sniper -t <CIDR> -m discover -w <WORSPACE_ALIAS>
+sniper -t <CIDR> -m discover -w <WORKSPACE_ALIAS>
 
 [*] SCAN ONLY SPECIFIC PORT
 sniper -t <TARGET> -m port -p <portnum>
@@ -141,7 +188,7 @@ sniper -t <TARGET> -m webporthttp -p <port>
 sniper -t <TARGET> -m webporthttps -p <port>
 
 [*] HTTP WEBSCAN MODE
-sniper -t <TARGET> -m webscan 
+sniper -t <TARGET> -m webscan
 
 [*] ENABLE BRUTEFORCE
 sniper -t <TARGET> -b
@@ -185,7 +232,7 @@ sniper -w <WORKSPACE_ALIAS> --reimport
 [*] LOOT REIMPORTALL FUNCTION
 sniper -w <WORKSPACE_ALIAS> --reimportall
 
-[*] LOOT REIMPORT FUNCTION
+[*] LOOT RELOAD FUNCTION
 sniper -w <WORKSPACE_ALIAS> --reload
 
 [*] LOOT EXPORT FUNCTION
@@ -199,58 +246,130 @@ sniper -c /path/to/sniper.conf -t <TARGET> -w <WORKSPACE_ALIAS>
 
 [*] UPDATE SNIPER
 sniper -u|--update
+
+[*] VERBOSE OUTPUT (NEW IN 2026)
+sniper -t <TARGET> -m airstrike -v
+
+[*] DEBUG OUTPUT (NEW IN 2026)
+sniper -t <TARGET> -m normal -db
+
+[*] REMOVE RESUME FILES (NEW IN 2026)
+sniper -t <TARGET> -m airstrike -v -rr
 ```
 
-## Modes
+## Scan Modes
 
-- **NORMAL:** Performs basic scan of targets and open ports using both active and passive checks for optimal performance.
+| Mode | Description |
+|------|-------------|
+| `normal` | Active + passive scan of the target and its open ports |
+| `stealth` | Quick, mostly non-intrusive enumeration to avoid WAF / IPS |
+| `flyover` | Fast multi-threaded high-level scans of many hosts |
+| `airstrike` | Open-port enumeration + basic fingerprinting against a host file |
+| `nuke` | Full audit across all targets in a host file |
+| `discover` | Walks a CIDR and runs Sn1per on every live host |
+| `port` | Targeted scan of a specific port |
+| `fullportonly` | Full TCP port scan, results saved to XML |
+| `web` | Web app scan on `80/tcp` + `443/tcp` only |
+| `webporthttp` / `webporthttps` | Web app scan on a specific HTTP / HTTPS port |
+| `webscan` | Full HTTP + HTTPS web app scan via Burp Suite + Arachni |
+| `vulnscan` | OpenVAS vulnerability scan |
+| `mass*` | Multi-target variants of the above (`-f targets.txt`) |
 
-- **STEALTH:** Quickly enumerate single targets using mostly non-intrusive scans to avoid WAF/IPS blocking.
-- **FLYOVER:** Fast multi-threaded high level scans of multiple targets (useful for collecting high level data on many hosts quickly).
-- **AIRSTRIKE:** Quickly enumerates open ports/services on multiple hosts and performs basic fingerprinting. To use, specify the full location of the file which contains all hosts, IPs that need to be scanned and run ./sn1per /full/path/to/targets.txt airstrike to begin scanning.
-- **NUKE:** Launch full audit of multiple hosts specified in text file of choice. Usage example: ./sniper /pentest/loot/targets.txt nuke.
-- **DISCOVER:** Parses all hosts on a subnet/CIDR (ie. 192.168.0.0/16) and initiates a sniper scan against each host. Useful for internal network scans.
-- **PORT:** Scans a specific port for vulnerabilities. Reporting is not currently available in this mode.
-- **FULLPORTONLY:** Performs a full detailed port scan and saves results to XML.
-- **MASSPORTSCAN:** Runs a "fullportonly" scan on multiple targets specified via the "-f" switch.
-- **WEB:** Adds full automatic web application scans to the results (port 80/tcp & 443/tcp only). Ideal for web applications but may increase scan time significantly.
-- **MASSWEB:** Runs "web" mode scans on multiple targets specified via the "-f" switch.
-- **WEBPORTHTTP:** Launches a full HTTP web application scan against a specific host and port.
-- **WEBPORTHTTPS:** Launches a full HTTPS web application scan against a specific host and port.
-- **WEBSCAN:** Launches a full HTTP & HTTPS web application scan against via Burpsuite and Arachni.
-- **MASSWEBSCAN:** Runs "webscan" mode scans of multiple targets specified via the "-f" switch.
-- **VULNSCAN:** Launches a OpenVAS vulnerability scan.
-- **MASSVULNSCAN:** Launches a "vulnscan" mode scans on multiple targets specified via the "-f" switch.
+## Integrations
 
-## Help Topics
+Sn1per ships with native integrations for **90+ tools and services**. Featured partners:
 
-- [x] [Plugins & Tools](https://github.com/1N3/Sn1per/wiki/Plugins-&-Tools)
-- [x] [Scheduled Scans](https://github.com/1N3/Sn1per/wiki/Scheduled-Scans)
-- [x] [Sn1per Configuration Options](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Options)
-- [x] [Sn1per Configuration Templates](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Templates)
-- [x] [Sc0pe Templates](https://github.com/1N3/Sn1per/wiki/Sc0pe-Templates)
+| Category | Integrations |
+|----------|--------------|
+| **Vulnerability scanners** | [Nessus](https://github.com/1N3/Sn1per/wiki/Nessus-Integration) · [OpenVAS](https://github.com/1N3/Sn1per/wiki/OpenVAS-Integration) · [GVM 21.x](https://github.com/1N3/Sn1per/wiki/GVM-21.x-Integration) · Nuclei |
+| **Web app testing** | [Burp Suite Pro](https://github.com/1N3/Sn1per/wiki/Burpsuite-Professional-2.x-Integration) · [OWASP ZAP](https://github.com/1N3/Sn1per/wiki/OWASP-ZAP-Integration) · [WPScan](https://github.com/1N3/Sn1per/wiki/WPScan-API-Integration) |
+| **Exploitation** | [Metasploit](https://github.com/1N3/Sn1per/wiki/Metasploit-Integration) |
+| **Reconnaissance** | [Shodan](https://github.com/1N3/Sn1per/wiki/Shodan-Integration) · [Censys](https://github.com/1N3/Sn1per/wiki/Censys-API-Integration) · [Hunter.io](https://github.com/1N3/Sn1per/wiki/Hunter.io-API-Integration) · VirusTotal · Nmap |
+| **AI / LLM** | OpenAI · Claude · Gemini |
+| **Notifications & DevOps** | [Slack](https://github.com/1N3/Sn1per/wiki/Slack-API-Integration) · [GitHub API](https://github.com/1N3/Sn1per/wiki/Github-API-Integration) |
 
-## Integration Guides
+[Browse all integrations on the wiki →](https://github.com/1N3/Sn1per/wiki)
 
-- [x] [Github API integration](https://github.com/1N3/Sn1per/wiki/Github-API-Integration)
-- [x] [Burpsuite Professional 2.x integration](https://github.com/1N3/Sn1per/wiki/Burpsuite-Professional-2.x-Integration)
-- [x] [OWASP ZAP integration](https://github.com/1N3/Sn1per/wiki/OWASP-ZAP-Integration)
-- [x] [Shodan API integration](https://github.com/1N3/Sn1per/wiki/Shodan-Integration)
-- [x] [Censys API integration](https://github.com/1N3/Sn1per/wiki/Censys-API-Integration)
-- [x] [Hunter.io API integration](https://github.com/1N3/Sn1per/wiki/Hunter.io-API-Integration)
-- [x] [Metasploit integration](https://github.com/1N3/Sn1per/wiki/Metasploit-Integration)
-- [x] [Nessus integration](https://github.com/1N3/Sn1per/wiki/Nessus-Integration)
-- [x] [OpenVAS API integration](https://github.com/1N3/Sn1per/wiki/OpenVAS-Integration)
-- [x] [GVM 21.x integration](https://github.com/1N3/Sn1per/wiki/GVM-21.x-Integration)
-- [x] [Slack API integration](https://github.com/1N3/Sn1per/wiki/Slack-API-Integration)
-- [x] [WPScan API integration](https://github.com/1N3/Sn1per/wiki/WPScan-API-Integration)
+## Documentation & Help
 
-## License & Legal Agreement
+- [Getting Started](docs/getting-started.md)
+- [Installation](docs/installation.md)
+- [Configuration](docs/configuration.md)
+- [Usage](docs/usage.md)
+- [Architecture](docs/architecture.md)
+- [Integrations](docs/integrations.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [Wiki — full reference](https://github.com/1N3/Sn1per/wiki)
+- [Sn1per Documentation Hub](https://sn1persecurity.com/wordpress/documentation/)
+- [Passive Reconnaissance Techniques for Penetration Testers](https://sn1persecurity.com/wordpress/passive-reconnaissance-techniques-for-penetration-testing/)
+- [CVE-2024-21733 — Apache Tomcat HTTP Request Smuggling writeup](https://sn1persecurity.com/wordpress/cve-2024-21733-apache-tomcat-http-request-smuggling/)
 
-For license and legal information, refer to the [LICENSE.md](https://github.com/1N3/Sn1per/blob/master/LICENSE.md) file in this repository.
+### Configuration & Templates
 
-## Purchase Sn1per Professional
+- [Plugins & Tools](https://github.com/1N3/Sn1per/wiki/Plugins-&-Tools)
+- [Scheduled Scans](https://github.com/1N3/Sn1per/wiki/Scheduled-Scans)
+- [Sn1per Configuration Options](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Options)
+- [Sn1per Configuration Templates](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Templates)
+- [Sc0pe Templates](https://github.com/1N3/Sn1per/wiki/Sc0pe-Templates)
 
-To obtain a Sn1per Professional license, go to <https://sn1persecurity.com>.
+## News & Releases
 
-External attack surface management, Attack surface monitoring, Attack Surface Management Platform, Attack Surface Management Solutions, Vulnerability management, Threat intelligence, Cybersecurity risk assessment, Security posture assessment, Digital footprint analysis, Attack surface mapping, Web application security, Network security, Infrastructure security, Cloud security, Third-party risk management, Incident response, Penetration testing, Asset discovery, Patch management, Security scanning, Firewall configuration, Intrusion detection system, Security awareness training, Data breach prevention, Web server security, Endpoint security, Phishing protection, Vulnerability assessment, Network security, Web application testing, Ethical hacking, Security assessment, Information security, Red teaming, Cybersecurity testing, Pen testing tools, Exploitation techniques, Wireless network testing, Social engineering, Security auditing, Incident response, Intrusion detection, Firewall testing, Security assessment methodology, Risk assessment, Security controls, Web vulnerability scanning, Password cracking, Security testing services, Security architecture, System hardening, Network reconnaissance, Red teaming, Penetration testing, Cybersecurity, Vulnerability assessment, Attack simulation, Threat intelligence, Risk assessment, Security testing, Adversarial tactics, Incident response, Security assessment, Network security, Defensive measures, Security controls, Social engineering, Exploitation techniques, Security awareness, Defensive strategies, Risk mitigation, Blue teaming, Security operations, Intrusion detection, Security frameworks, Cyber defense, Information security
+- **[Sn1per Professional 2026 Released](https://sn1persecurity.com/wordpress/sn1per-professional-2026-release/)** - April 26, 2026
+- [Introducing SILENTCHAIN AI Community Edition v1.1.3](https://sn1persecurity.com/wordpress/introducing-silentchain-ai-community-edition-v1-1-3/) - February 11, 2026
+- [Sn1per SE v11.0 Now Available](https://sn1persecurity.com/wordpress/sn1per-se-v11-released/) - January 8, 2026
+
+### Guides & deep dives (2026)
+
+**Reconnaissance**
+
+- [Reconnaissance Methodology](https://sn1persecurity.com/wordpress/reconnaissance-methodology/) - Sn1per's full recon-to-report workflow, phase by phase, from OSINT to reporting
+- [Subdomain Enumeration](https://sn1persecurity.com/wordpress/subdomain-enumeration/) - passive sources, active brute force, and subdomain-takeover checks
+- [Active Reconnaissance](https://sn1persecurity.com/wordpress/active-reconnaissance/) - port scanning, service and technology fingerprinting, and endpoint discovery
+
+**Penetration testing**
+
+- [Automated Penetration Testing](https://sn1persecurity.com/wordpress/automated-penetration-testing/) - the method, the tooling, and the continuous-testing model
+- [Best Automated Pentest Tools](https://sn1persecurity.com/wordpress/automated-pentest-tools/) - the 2026 open-source and all-in-one pentest tooling landscape
+- [Continuous Penetration Testing (PTaaS)](https://sn1persecurity.com/wordpress/continuous-penetration-testing/) - the always-on model beyond the once-a-year pentest
+
+**Attack surface management**
+
+- [Red Team Attack Surface Management](https://sn1persecurity.com/wordpress/red-team-attack-surface-management/) - running Sn1per as a continuous red-team and adversarial-exposure-validation workflow
+- [Adversarial Exposure Validation](https://sn1persecurity.com/wordpress/adversarial-exposure-validation/) - proving which exposures are actually exploitable, not just present
+- [Continuous Attack Surface Testing](https://sn1persecurity.com/wordpress/continuous-attack-surface-testing/) - daily-cadence rescans that diff yesterday's surface against today's
+- [On-Prem External Attack Surface Management](https://sn1persecurity.com/wordpress/best-on-prem-external-attack-surface-management-platform/) - self-hosted, air-gapped ASM with zero data leaving your perimeter
+- [Open-Source Self-Hosted ASM Tools](https://sn1persecurity.com/wordpress/open-source-self-hosted-attack-surface-management-tools/) - the self-hosted attack surface management tooling landscape
+- [External Attack Surface Management with Sn1per](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/) - background reading on the ASM use case
+
+[All releases & blog posts →](https://sn1persecurity.com/wordpress/blog/)
+
+## Community & Support
+
+- **Bugs:** [Open an issue](https://github.com/1N3/Sn1per/issues)
+- **Twitter:** [@xer0dayz](https://twitter.com/xer0dayz)
+- **YouTube:** [Sn1per Security](https://www.youtube.com/c/Sn1perSecurity/videos) - latest demo: [Continuous Attack Surface Testing](https://youtu.be/GBr7vjbGRBA)
+- **Email (Pro / Enterprise customers):** see your license email
+
+## Contributing
+
+Pull requests welcome. For substantial changes, open an issue first to discuss the design.
+
+- Mode scripts live in [`modes/`](modes/) — one bash file per scan mode
+- Test changes against a controlled target before opening a PR
+- Follow [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format in [`CHANGELOG.md`](CHANGELOG.md)
+
+35 contributors and counting. Thank you.
+
+## License & Legal
+
+- **Code:** see [`LICENSE.md`](LICENSE.md) and [`THIRD_PARTY_LICENSES.md`](THIRD_PARTY_LICENSES.md)
+- **Notices:** see [`NOTICE`](NOTICE)
+- **Trademark:** "Sn1per" and the Sn1per logo are trademarks of Sn1perSecurity LLC. Use in derivative works requires permission. Contact: [sn1persecurity.com](https://sn1persecurity.com)
+
+---
+
+## About Sn1perSecurity
+
+Sn1per is built and maintained by [Sn1perSecurity](https://sn1persecurity.com), the team behind the [Sn1per attack surface management and automated penetration testing platform](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/). Small team of pentesters shipping offensive-security tooling since 2015. We focus on the workflows we want to use ourselves — fast recon, ergonomic reporting, honest pricing, and a Community Edition that genuinely keeps up with the commercial editions. If that resonates, [say hi](https://twitter.com/xer0dayz).
+
+**Topics:** `penetration-testing` · `offensive-security` · `attack-surface-management` · `vulnerability-scanner` · `recon` · `osint` · `red-team` · `bug-bounty` · `security-tools`
